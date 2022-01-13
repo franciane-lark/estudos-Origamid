@@ -33,20 +33,20 @@
 
 - 14 - Ux Design e Heurísticas
 
-- Adobe XD
+- 15 - Adobe XD
 
-- Vue JS Completo
+- 16 - Vue JS Completo
 
-- WordPress Word API
+- 17 - WordPress Word API
 
-- WooComerce como CMS
+- 18 - WooComerce como CMS
 
-- Boostrap 4 
+- 19 - Boostrap 4 
 
-- Automação Front End NPM
+- 20 - Automação Front End NPM
 
-- JavaScript e JQuery
+- 21 - JavaScript e JQuery
 
-- Web Design Completo
+- 22 - Web Design Completo
 
 
